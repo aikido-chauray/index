@@ -1,0 +1,217 @@
+body{
+	background-image:url('index_fichiers/image001.jpg');
+	background-size: cover;
+	background-repeat: none;
+	background-attachment:fixed
+}
+
+#content {padding: 0px;margin-top: 100px;position:fixed;overflow: hidden ;}
+/*Fixe le menu de gauche*/ 
+
+#bouton{
+	position:absolute;
+	left:820px;
+	top:10px;
+	text-decoration:underline;
+	line-height:200%;
+	font-style:italic;
+	font-family: Comic Sans MS,Candara,Verdana;
+	font-size: 13.0pt;
+	color: #FFFFFF;
+	text-shadow: 0px 1px 0px black;
+	text-shadow: 0px 1px 0px rgba( 255, 255, 255, 0.2);
+	padding-top: 4px; 
+	padding-bottom: 4px; 
+	padding-right:10px;
+	padding-left: 10px; 
+	text-align:center;
+	background:#555; 
+	background: linear-gradient( #777, #2C2C2C);
+	border-radius: 8px;
+	box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+}
+#bouton :hover{ color: #A9A9A9; background: #666; background: linear-gradient( #999, #333); }
+#bouton :active{ color: #000; background: #777; background: linear-gradient( #777, #2C2C2C); box-shadow: 1px 1px 10px black inset, 0 1px 0 rgba( 255, 255, 255, 0.4);}
+
+#logo{padding: 0px;margin: 0px;position:fixed;overflow: hidden ;}
+#email{position:absolute;z-index:79;left:10px;top:510px;padding: 0px;margin: 0px;position:fixed;overflow: hidden ;}
+#facebook{position:absolute;z-index:79;left:60px;top:710px;padding: 0px;margin: 0px;position:fixed;overflow: hidden ;}
+#logo_chauray{position:absolute;z-index:79;left:160px;top:0px;padding: 0px;margin: 0px;position:fixed;overflow: hidden ;}
+
+#aiki{
+	position:absolute;z-index:5;left:950px;top:46px;width:350px;height:740px;
+}
+#dojo{position:absolute;z-index:3;left:600px;top:30px;width:500px;height:200px;
+} 
+#tabulation {
+margin-left: 80px;
+}
+#lien{/*Format des liens*/ 
+	text-decoration:none;
+	line-height:300%;
+	font-family: Comic Sans MS,Candara,Verdana;
+	font-size: 13.0pt;
+	color: #FFFFFF;
+	text-shadow: 0px 1px 0px black;
+	text-shadow: 0px 1px 0px rgba( 255, 255, 255, 0.2);
+	padding-top: 4px; 
+	padding-bottom: 4px; 
+	padding-right:10px;
+	padding-left: 10px; 
+	text-align:center;
+	background:#555; 
+	background: linear-gradient( #777, #2C2C2C);
+	border-radius: 8px;
+	box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+}
+#lien:hover{ color: #A9A9A9; background: #666; background: linear-gradient( #999, #333); }
+#lien:active{ color: #000; background: #777; background: linear-gradient( #777, #2C2C2C); box-shadow: 1px 1px 10px black inset, 0 1px 0 rgba( 255, 255, 255, 0.4);}
+
+ul{list-style-type:none}/*Format des listes*/ 
+	
+h1{/*Titre1*/ 
+	font-family: Verdana,Candara,Comic Sans MS;
+	font-size: 18.0pt;
+	color: white;
+	font-style:italic;
+	font-weight:bold;
+	text-shadow: 0px 0px 10px #06f, 0px 0px 15px #69f, 0px 0px 20px #0ff;
+	padding: 0px;margin: 0px;
+	line-height:180%;
+}
+h2{
+	font-family: Times New Roman,Verdana,Candara,Comic Sans MS;
+	font-size: 26.0pt;
+	color: black;
+	line-height:200%;
+	font-style:italic;
+	font-weight:bold;
+	padding: 0px;margin: 0px;
+}
+
+h3{/*Titre2*/ 
+	font-family: Verdana,Candara,Comic Sans MS;
+	font-size: 13.0pt;
+	color: white;
+	font-style:normal;
+	font-weight:bold;
+	padding: 0px;margin: 0px;
+	line-height:100%;
+}
+h4{
+	font-family: Verdana,Candara,Comic Sans MS;
+	font-size: 13.0pt;
+	color: black;
+	line-height:180%;
+	font-style:italic;
+	font-weight:bold;
+	padding: 0px;margin: 0px;
+}
+h5{
+	font-family: Verdana,Candara,Comic Sans MS;
+	font-size: 12.0pt;
+	color: black;
+	line-height:260%;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline: single;
+	padding: 0px;margin: 0px;
+}
+h6{
+	font-family: Comic Sans MS,Verdana,Candara;
+	font-size: 11.0pt;
+	color: black;
+	line-height:260%;
+	font-style:italic;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline: single;
+	padding: 0px;margin: 0px;
+}
+
+#présentation{
+	font-size:11.0pt;
+	font-family: Verdana,Candara,Comic Sans MS;
+}
+
+#actualités{
+	font-size:11.0pt;
+	font-family: Verdana,Candara,Comic Sans MS;
+	background:#555; 
+	background: linear-gradient( #d9d0c7, #8e8d88);
+	padding:8px;
+	line-height:160%;
+	border-radius: 4px;
+	box-shadow: 0 0 8px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+}
+	
+#text{
+	font-family: Candara,Comic Sans MS,Verdana;
+	font-size: 12.0pt;
+	color: black;
+	line-height:130%;
+	font-style:normal;
+	font-weight:normal;
+
+}
+
+#text2{
+	font-family: Comic Sans MS,Candara,Verdana;
+	font-size: 11.0pt;
+	color: black;
+	line-height:150%;
+	font-style:normal;
+	font-weight:normal;
+
+}
+#text3{
+	font-family: Comic Sans MS,Candara,Verdana;
+	font-size: 11.0pt;
+	color: black;
+	line-height:230%;
+	font-style:normal;
+	font-weight:normal;
+
+}
+#titreactu{
+	font-family: 'Verdana', sans-serif;
+	font-size: 12.0pt;
+	color: white;
+	font-weight:bold;
+	line-height:100%;
+}
+
+/*Diaporama page9b*/ 
+.container {
+  max-width: 1000px;
+  margin: auto;
+  position: relative;
+}
+
+.slides {
+  display: none;
+}
+
+.prev,
+.next {
+  cursor: pointer;
+  color: white;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  padding: 16px;
+  border-radius: 0 3px 3px 0;
+  background: rgba(0, 0, 0, .5);
+  transition: all .3s;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover,
+.next:hover {
+  background: rgba(0, 0, 0, .8);
+}
