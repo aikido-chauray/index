@@ -1,0 +1,93 @@
+﻿body {
+  margin: 0;
+  padding: 0;
+  font: 1em/1.25 Verdana,sans-serif;
+}
+body {  -webkit-animation: bugfix infinite 1s;}
+@-webkit-keyframes bugfix { from { padding: 0; } to { padding: 0; }}
+main {
+  display: block;
+  margin-left: 10px;
+}
+nav {
+  position: relative;
+  width: 200px;
+  min-height: 2em;
+  border: 1px solid #CCC;
+  line-height: 2em;
+  font-family: Comic Sans MS,Candara,Verdana;
+  font-size: 1.2em;
+  color: #FFFFFF;
+  cursor: pointer;
+  z-index: 99;
+}
+nav ul {
+  position: absolute;
+  left: -1px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: inherit;
+  background:#555; 
+  background: linear-gradient( #777, #2C2C2C);
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+}
+nav li {
+  margin: 10px;
+  white-space: nowrap;
+  list-style-type: none;
+}
+nav a {
+  display: block;
+  text-decoration:none;
+  font-family: Comic Sans MS,Candara,Verdana;
+  font-size: 13.0pt;
+  color: #FFFFFF;
+  text-shadow: 0px 1px 0px black;
+  text-shadow: 0px 1px 0px rgba( 255, 255, 255, 0.2);
+
+}
+nav li:hover a {color: black; background: #666; background: linear-gradient( #999, #333);}
+ 
+#menu_expand {
+  position: absolute;
+  left: -9999em;
+}
+[for="menu_expand"] {
+  display: block;
+  text-indent: .25em;
+  background:#555; 
+  background: linear-gradient( #777, #2C2C2C);
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+  margin: 1px;
+  cursor: pointer;
+}
+[for="menu_expand"]:before {
+  content: "\2630";  
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1em;
+  text-align: center;
+  text-indent: 0;
+  font-size: 2em;
+  color: #FFFFFF;
+  font-weight: bold;}
+ 
+/* on traite la liste menu */
+#menu_expand:not(:checked) ~ ul {
+  display: none;
+  position: absolute;
+  left: -1px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: inherit;
+  background: #FFF;
+}
+#menu_expand:checked ~[for="menu_expand"]:before {
+  content: "\2716";
+}
