@@ -1,6 +1,6 @@
 body{
 	background-image:url('index_fichiers/image001.jpg');
-	background-size: auto;
+	background-size: 100%;
 	background-repeat: none;
 	background-attachment:fixed;
 	padding: 0;
@@ -185,5 +185,6 @@ p{margin: 20px;}
 	display: flex;
 	flex-direction: column;
 }
+
 
 
