@@ -36,9 +36,9 @@ body{
 .aiki{
 	position:absolute;z-index:5;left:950px;top:46px;width:350px;height:740px;
 }
-#dojo{position:absolute;z-index:3;left:600px;top:30px;width:500px;height:200px;
+.dojo{position:absolute;z-index:3;left:600px;top:30px;width:500px;height:200px;
 } 
-#tabulation {
+.tabulation {
 margin-left: 80px;
 }
 
