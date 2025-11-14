@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Dojos de l'Ouest</name>
+		<Placemark>
+			<name>Angoulême : Dojo</name>
+			<description><![CDATA[Rue de l'État à la Grand Font, 16000 Angoulême]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>0.166637,45.653004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barbezieux-Saint-Hilaire : Dojo du gymnase J.G Ranson</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/iWgcU_40Ea2n--4RwiUSkL3g3pn_U6SDJZyVrvHndEQ4vJcPh7jt4OvwbvRSyXRMZjZqJNIxK8wh9uh1GncRkdebXgVkx5cDZewX3z5gE-vIgFI_cZMGtbr-fjYDbjpo4FR1Lg3k" height="200" width="auto" /><br><br>4 Avenue Pierre Mendès France<br>16300 Barbezieux-Saint-Hilaire]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/iWgcU_40Ea2n--4RwiUSkL3g3pn_U6SDJZyVrvHndEQ4vJcPh7jt4OvwbvRSyXRMZjZqJNIxK8wh9uh1GncRkdebXgVkx5cDZewX3z5gE-vIgFI_cZMGtbr-fjYDbjpo4FR1Lg3k</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.148137,45.474538,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beauvoir sur mer : Dojo de salle omnisport</name>
+			<description><![CDATA[41 r Cornoir, Dojo de salle omnisport]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-2.035512,46.917075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cestas : Complexe sportif du Bouzet</name>
+			<description><![CDATA[Complexe sportif du Bouzet 33610 CESTAS]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.684714,44.759575,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chauray : Dojo du club d'Aïkido</name>
+			<description><![CDATA[Dojo de Chauray]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.3801862,46.3553043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cholet : Dojo du Chêne Landry</name>
+			<description><![CDATA[Bordage Luneau<br>Allée Robert Berard<br>49300 CHOLET]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.889893,47.06263800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cognac : Dojo A.Gibeau</name>
+			<description><![CDATA[Dojo A.Gibeau , 122 rue Marignan, 16100 Cognac]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.317474,45.690747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cognac : Dojo de la salle verte</name>
+			<description><![CDATA[Dojo de la salle verte<br>58 rue du Port 16100 Cognac]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.334206,45.694404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fontenay le comte (85) : Dojo du JKCF</name>
+			<description><![CDATA[Dojo du JKCF de Fontenay le comte]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.808348,46.459472,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gradignan : Dojo Pierre Toupiac</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/hvG14bCcH_N0hcZWA9Ed5d3edD1kLOPhGuBLp-zua-mJjFyl6OF89m1gIRGzXG9GELmg5IVCBitvPPGgbWLqR0DqEgva-BNWKRWM9Z84f-Qk3l6SNtq-woqcsLIRWI-jOgj9JG2P" height="200" width="auto" /><br><br>Avenue Jean Larrieu 33170 Gradignan]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/hvG14bCcH_N0hcZWA9Ed5d3edD1kLOPhGuBLp-zua-mJjFyl6OF89m1gIRGzXG9GELmg5IVCBitvPPGgbWLqR0DqEgva-BNWKRWM9Z84f-Qk3l6SNtq-woqcsLIRWI-jOgj9JG2P</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.617046,44.773782,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gradignan : Dojo de la Tannerie</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/1Gdy5CYdPfvb3c9eU_T-RKAw0cZ4USkHMMGA6cIBBqGLfJRPq04_fRDLj0l5zhEtcqoL_Vkrh7_FC7cG41lBPTJzPg4uvNTfiMAJQe3Txql8RDkCv_JVGUWa4bCcpvoIDONHvDEC" height="200" width="auto" /><br><br>140 Rue de la Croix de Monjous 33140 Gradignan]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/1Gdy5CYdPfvb3c9eU_T-RKAw0cZ4USkHMMGA6cIBBqGLfJRPq04_fRDLj0l5zhEtcqoL_Vkrh7_FC7cG41lBPTJzPg4uvNTfiMAJQe3Txql8RDkCv_JVGUWa4bCcpvoIDONHvDEC</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.589076,44.778647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>(Les) Herbiers : Dojo Massabielle aux Herbiers</name>
+			<description><![CDATA[Dojo Massabielle<br>Avenue Massabielle 85500 Herbiers]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.011472,46.877318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ile d'Oléron : Espace Loisirs de l'Oumière </name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Me9VhJurr9KlY63P5iRJPJCCkOdjZ2xDifY7mDV7NO70ISbFQQZWmYFXI08tNUEXINFNLO3EH2sFrgjIRn_HtN6dj4tPlRkH-q90OJSelhAGH_4g6IcjG7_gZed3ovN8znvBn0PX" height="200" width="auto" /><br><br>Av. Jean Soulat - 17310 SAINT-PIERRE D'OLERON]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/Me9VhJurr9KlY63P5iRJPJCCkOdjZ2xDifY7mDV7NO70ISbFQQZWmYFXI08tNUEXINFNLO3EH2sFrgjIRn_HtN6dj4tPlRkH-q90OJSelhAGH_4g6IcjG7_gZed3ovN8znvBn0PX</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.307916,45.949594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ile d'Oléron : Complexe sportif de Cheray </name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/aU7f3ohr4QCjPROGQbXclel2owsvoG8kESyDyAnbVoQK9zpTEuVttpnCRhN8urUCFSeo95QdpsebY_3bZ2lNz6LqdgwCJi4lqhtuc7AuOUEKu0x_x3nvkou8lLFReBgLpbMdHlnR" height="200" width="auto" /><br><br>Rue des Sports 17190 Saint-Georges-d'Oléron]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/aU7f3ohr4QCjPROGQbXclel2owsvoG8kESyDyAnbVoQK9zpTEuVttpnCRhN8urUCFSeo95QdpsebY_3bZ2lNz6LqdgwCJi4lqhtuc7AuOUEKu0x_x3nvkou8lLFReBgLpbMdHlnR</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.345882,45.976685,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jonzac : Dojo de Jonzac</name>
+			<description><![CDATA[Dojo Rue Paul Bert<br>17500 JONZAC]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.435626,45.446683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Melle : Complexe sportif du Pinier</name>
+			<description><![CDATA[Avenue Clément Pineau 79500 Melle]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.132587,46.230073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nantes : Dojo du Palais des Sports de Beaulieu</name>
+			<description><![CDATA[Palais des Sports, à Nantes]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.537131,47.20915,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nantes : Salle Malakoff IV</name>
+			<description><![CDATA[Salle Malakoff IV, 4 bd de l'Europe 44000 Nantes]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.527489,47.215015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nantes : Aïkikai de Nantes</name>
+			<description><![CDATA[Aïkikai de Nantes<br>DOJO au GYMNASE DU COSEC BARBOIRE<br>117 Rue De La Bourgeonnière<br>44300 Nantes<br><br>Tél. Fixe : 	02 51 81 90 74]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.554737,47.252648,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nantes : Salle Sakura</name>
+			<description><![CDATA[Salle Sakura<br>8 rue Julien<br>44300 Nantes]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.566807,47.233688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nantes : Salle du croissant</name>
+			<description><![CDATA[Cercle Nantais d'Aïkido<br>29 rue du Croissant<br>44300 Nantes<br>Tél. Fixe : 	02 40 35 66 63]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.521848,47.235491,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nantes : Dojo</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Pk6SwYC0ELYpRCfXV5q5RztmDiqUf_4b-A5oNX8wZXqjHGwWfXCS3-c358ZlWs0PMZS8-byVzPowCadS7rf7f6ZuFOSA8-rx0H_6tH9uRb9r42TF7sKo3Q0OyKEjdKVHxN8zY63v" height="200" width="auto" /><br><br>5 Rue André Tardieu 44200 Nantes]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/Pk6SwYC0ELYpRCfXV5q5RztmDiqUf_4b-A5oNX8wZXqjHGwWfXCS3-c358ZlWs0PMZS8-byVzPowCadS7rf7f6ZuFOSA8-rx0H_6tH9uRb9r42TF7sKo3Q0OyKEjdKVHxN8zY63v</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.537849,47.209304,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Niort Souché : AIKIDO MUSUBI</name>
+			<description><![CDATA[AIKIDO MUSUBI (Aïkido)<br>HALLE DES SPORTS DE SOUCHE<br>12 RUE DE L'AERODROME<br>79000   NIORT]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.42902700000000005,46.324731,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Niort : Salle Omnisports rue Barra</name>
+			<description><![CDATA[Salle Omnisports 8 rue Barra , 79000 NiortAttention! Passez par la rue de limoge]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.455326,46.32257100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parthenay : Dojo J.P. Trainaud</name>
+			<description><![CDATA[Dojo J.P. Trainaud<br>salle omnisport municipale<br>8 rue Ernest Pérochon<br>79200 PARTHENAY]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.253614,46.643456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poitiers : Dojo de la Ganterie</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/bdGicmwnIH9bVyW7ex7eZzWRljk0j5ANSofYGPe4la-W9z9VUXHcijgICsUj8coQ8j4-s-EcxQQ4JgeFrrDVel-E8HoBQmVwYi1u-LXeOgQCCkWXQgVW3U79jKbaiZGjInyFeXs" height="200" width="auto" /><br><br>57 Rue de la Ganterie 86000 Poitiers]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/bdGicmwnIH9bVyW7ex7eZzWRljk0j5ANSofYGPe4la-W9z9VUXHcijgICsUj8coQ8j4-s-EcxQQ4JgeFrrDVel-E8HoBQmVwYi1u-LXeOgQCCkWXQgVW3U79jKbaiZGjInyFeXs</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.3691150000000001,46.569507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poitier : Dojo de la Pépinière</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/8DOb8Ul9yh0AW7-GePUK7flBS5Lbj9KOLc2vIh9ZMf-vXY-PIFRPwtAi5CWGYQT43lbA5KbFzuBA5z3vUYHPEb8apIO3SUeUHF0jTqajurWKo9Jh6U1bzVOZCiboXWV4TYWeelo" height="200" width="auto" /><br><br>Rue de la Fraternité 86000 Buxerolles]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/8DOb8Ul9yh0AW7-GePUK7flBS5Lbj9KOLc2vIh9ZMf-vXY-PIFRPwtAi5CWGYQT43lbA5KbFzuBA5z3vUYHPEb8apIO3SUeUHF0jTqajurWKo9Jh6U1bzVOZCiboXWV4TYWeelo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.363579,46.595351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poitiers : Dojo Saint Nicolas</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/CW61_nZ--Z3GrzZQQAdIU8laeNIpOF3ImIdKDmTdH2wYqazTTAEQohI579D_HoAxrLi1AdmiW028hlm8EncFGoRVnGp0Q1RQn7UoNEjdnCuTvQ1-vB1zJRMwUqkOD49wByBTDeI" height="200" width="auto" /><br><br>156 Route de Parthenay 86000 Poitiers]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/CW61_nZ--Z3GrzZQQAdIU8laeNIpOF3ImIdKDmTdH2wYqazTTAEQohI579D_HoAxrLi1AdmiW028hlm8EncFGoRVnGp0Q1RQn7UoNEjdnCuTvQ1-vB1zJRMwUqkOD49wByBTDeI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.316069,46.601703,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Portets : salle polyvalente</name>
+			<description><![CDATA[salle polyvalente : croisement  rue de la Liberté et rue de la Bonneterie à PORTETS]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.421769,44.696813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rochefort : DOJO du petit Marché</name>
+			<description><![CDATA[DOJO du petit Marché<br>Avenue GAMBETTA<br>17300 Rochefort]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.9715120000000002,45.940097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rochefort : Dojo du Polygone</name>
+			<description><![CDATA[Dojo du Polygone<br>av. de torrelavega<br>17300 Rochefort]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.96684,45.926498,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>(La) Rochelle : Dojo du Bastion</name>
+			<description><![CDATA[Dojo du Bastion, 21 quai de marans 17000 La Rochelle]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.147497,46.155535,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>(La) Rochelle : Gymnase des Parcs</name>
+			<description><![CDATA[Gymnase des Parcs, rue Léonce Mailho, La Rochelle (Accès parking de la Piscine Municipale)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.152824,46.168974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rezé : Dojo</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/GnZ0oL5Ad8xbAA8CR_tZMb1OdxpsbfxMfIINMbdgUCjiXkafSGSi6qhj5kT2kKmhIajKk-xeuhStbljjST0vheNm1Q_n4STlrBxWL5SSWUw13lc4CBY4EGHaCQZOxxwZXl7fqzpy" height="200" width="auto" /><br><br>11 Rue de la Galarnière 44400 Rezé]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/GnZ0oL5Ad8xbAA8CR_tZMb1OdxpsbfxMfIINMbdgUCjiXkafSGSi6qhj5kT2kKmhIajKk-xeuhStbljjST0vheNm1Q_n4STlrBxWL5SSWUw13lc4CBY4EGHaCQZOxxwZXl7fqzpy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.559137,47.178171,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saintes : Dojo Jean VEDEAU</name>
+			<description><![CDATA[Salle Jean VEDEAU<br>1 cours Genet<br>17100 SAINTES]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.641088,45.746638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saujon : Dojo de Saujon</name>
+			<description><![CDATA[4 bis rue jules ravet 17 SAUJON (près de Saintes)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.9291059999999999,45.676074,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Mandrier : Dojo municipal</name>
+			<description><![CDATA[Dojo municipal de st Mandrier]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>5.929179,43.076645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Mandrier : Ancien Hangar militaire</name>
+			<description><![CDATA[Dojo du stage d'été de St Mandrier]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>5.934728,43.082749,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint Palais sur Mer : Dojo Municipal</name>
+			<description><![CDATA[Dojo Municipal<br>Maison des associations<br>13 rue des Ecoles<br>17420 Saint Palais sur Mer]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-1.083202,45.644813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Talence : Dojo</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/PqTyFguWQFR_jHDPnI-C0ZGCs2QcdA36WjR9bjq8lhjeVh5rX7MZVAhoDEROpfSRxO_XHb3uoRcdi1UHi5p7p1MzKMGSPfbxmvlSBn84MUp1rncHOuIMaImJGb0szs6cr9p-E-m0" height="200" width="auto" /><br><br>Rue Salvador Allende<br>33400 Talence<br>(proche Bordeaux)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/PqTyFguWQFR_jHDPnI-C0ZGCs2QcdA36WjR9bjq8lhjeVh5rX7MZVAhoDEROpfSRxO_XHb3uoRcdi1UHi5p7p1MzKMGSPfbxmvlSBn84MUp1rncHOuIMaImJGb0szs6cr9p-E-m0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.588353,44.788876,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Venansault : Dojo</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/tTrIRuUI9rKEop7sKqbs21KW4B7XnT7_D2v6v_IXCMIaG7q1S2f91Zgow-VwbITQFU_PZKBUA9FprWi68ZfVvxFFSVHhWmwMXFQVhxoYQOjPHzWhPyexnrStFtmR3Ou28wzgOlaC" height="200" width="auto" /><br><br>Allée du Sableau 85190 Venansault]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/tTrIRuUI9rKEop7sKqbs21KW4B7XnT7_D2v6v_IXCMIaG7q1S2f91Zgow-VwbITQFU_PZKBUA9FprWi68ZfVvxFFSVHhWmwMXFQVhxoYQOjPHzWhPyexnrStFtmR3Ou28wzgOlaC</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.5125830000000002,46.68775300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vouneuil-sous-Biard : Dojo du C.R.E.P.S.</name>
+			<description><![CDATA[Dojo du C.R.E.P.S.de Boivre<br>86580 Vouneuil-sous-Biard]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>0.264305,46.578948,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aïkido Montendrais</name>
+			<description><![CDATA[http://aikido-montendre.jimdo.com/]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.3991663,45.2852629,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chevanceaux : Dojo du Club d' Aïkido</name>
+			<description><![CDATA[Gymnase, route de libourne,17210 	Chevanceaux]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>-0.2297848,45.3009278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Civray : Gymnase Beausejour</name>
+			<description><![CDATA[Gymnase beauséjour, 38 Avenue Maurice Bailly, 86400 Civray]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<Point>
+				<coordinates>0.28562399999998433,46.136873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
