@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Localisation du sitemap
+Sitemap: https://aikidochauray.netlify.app/sitemap.xml
