@@ -4,7 +4,7 @@
   <!-- Page d'accueil -->
   <url>
     <loc>https://aikidochauray.netlify.app/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2025-12-01</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -33,7 +33,7 @@
     <changefreq>yearly</changefreq>
   </url>
 
-  <!-- À propos / Le club -->
+  <!-- Ã€ propos / Le club -->
   <url>
     <loc>https://aikidochauray.netlify.app/club</loc>
     <lastmod>2025-01-01</lastmod>
@@ -41,7 +41,7 @@
     <changefreq>yearly</changefreq>
   </url>
 
-  <!-- Actualités (si existante) -->
+  <!-- ActualitÃ©s (si existante) -->
   <url>
     <loc>https://aikidochauray.netlify.app/actualites</loc>
     <lastmod>2025-01-01</lastmod>
@@ -50,3 +50,4 @@
   </url>
 
 </urlset>
+
