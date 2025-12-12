@@ -50,14 +50,14 @@ h1{/*Titre1*/
 	font-weight:bold;
 	text-shadow: 0px 0px 10px #06f, 0px 0px 15px #69f, 0px 0px 20px #0ff;
 	padding: 0px;margin: 0px;
-	line-height:120%;
+	line-height:180%;
 	text-align:center;
 }
 h2{
 	font-family: Times New Roman,Verdana,Candara,Comic Sans MS;
 	font-size: 26.0pt;
 	color: black;
-	line-height:200%;
+	line-height:150%;
 	font-style:italic;
 	font-weight:bold;
 	padding: 0px;margin: 0px;
@@ -183,6 +183,7 @@ p{margin: 20px;}
 	display: flex;
 	flex-direction: column;
 }
+
 
 
 
