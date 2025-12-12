@@ -3,6 +3,7 @@ body{
 	background-image:url('index_fichiers/image001.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-attachment:fixed;
 }
 
 #bouton{
@@ -182,6 +183,7 @@ p{margin: 20px;}
 	display: flex;
 	flex-direction: column;
 }
+
 
 
 
