@@ -1,8 +1,8 @@
 body{
+	margin: 0;
 	background-image:url('index_fichiers/image001.jpg');
-	background-size: 100% 100%;
+	background-size: cover;
 	background-repeat: no-repeat;
-    margin: 0;
 }
 
 #bouton{
@@ -182,6 +182,7 @@ p{margin: 20px;}
 	display: flex;
 	flex-direction: column;
 }
+
 
 
 
