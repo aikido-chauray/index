@@ -3,7 +3,7 @@
 
   <!-- Page d'accueil -->
   <url>
-    <loc>https://aikidochauray.netlify.app/</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
@@ -11,7 +11,7 @@
   
     <!-- Page 1 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page1</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page1T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -19,7 +19,7 @@
   
     <!-- Page 2 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page2</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page2T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
@@ -27,7 +27,7 @@
     
     <!-- Page 3 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page3</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page3T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
@@ -35,7 +35,7 @@
     
     <!-- Page 4 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page4</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page4T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -43,7 +43,7 @@
     
     <!-- Page 5 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page5</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page5T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
@@ -51,7 +51,7 @@
     
     <!-- Page 6 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page6</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page6T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -59,7 +59,7 @@
     
     <!-- Page 7 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page7</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page7T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
@@ -67,7 +67,7 @@
       
     <!-- Page 8 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page8</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page8T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
@@ -75,7 +75,7 @@
           
     <!-- techniques -->
   <url>
-    <loc>https://aikidochauray.netlify.app/techniques</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/techniquesT</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.7</priority>
     <changefreq>yearly</changefreq>
@@ -83,7 +83,7 @@
           
     <!-- liste_techn -->
   <url>
-    <loc>https://aikidochauray.netlify.app/liste_techn</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/liste_technT</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -91,7 +91,7 @@
               
     <!-- attaque_bokken -->
   <url>
-    <loc>https://aikidochauray.netlify.app/attaque_bokken</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/attaque_bokkenT</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -99,7 +99,7 @@
               
     <!-- page9b -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page9b</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page9bT</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -107,7 +107,7 @@
               
     <!-- page11 -->
   <url>
-    <loc>https://aikidochauray.netlify.app/page11</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/page11T</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.6</priority>
     <changefreq>yearly</changefreq>
@@ -115,7 +115,7 @@
                   
     <!-- lexique_jap -->
   <url>
-    <loc>https://aikidochauray.netlify.app/lexique_jap</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/lexique_japT</loc>
     <lastmod>2025-12-01</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -123,18 +123,12 @@
            
   <!-- Tarifs -->
   <url>
-    <loc>https://aikidochauray.netlify.app/tarifs</loc>
+    <loc>https://aikidochauray.netlify.app/tablette/tarifT</loc>
     <lastmod>2025-01-01</lastmod>
     <priority>0.8</priority>
     <changefreq>yearly</changefreq>
   </url>
 
-  <!-- Contact -->
-  <url>
-    <loc>https://aikidochauray.netlify.app/contact</loc>
-    <lastmod>2025-01-01</lastmod>
-    <priority>0.6</priority>
-    <changefreq>yearly</changefreq>
-  </url>
 
 </urlset>
+
