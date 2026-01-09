@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 
 # Localisation du sitemap
-Sitemap: https://aikidochauray.netlify.app/tablette/sitemap.xml
-Sitemap: https://aikidochauray.netlify.app/tablette/sitemap-video.xml
+Sitemap: https://aikidochauray.netlify.app/sitemap.xml
+Sitemap: https://aikidochauray.netlify.app/sitemap-video.xml
+
 
