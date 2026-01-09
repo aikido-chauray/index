@@ -3,3 +3,4 @@ Allow: /
 
 # Localisation du sitemap
 Sitemap: https://aikidochauray.netlify.app/sitemap.xml
+Sitemap: https://aikidochauray.netlify.app/sitemap-video.xml
