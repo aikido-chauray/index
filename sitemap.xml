@@ -129,12 +129,6 @@
     <changefreq>yearly</changefreq>
   </url>
 
-  <!-- Contact -->
-  <url>
-    <loc>https://aikidochauray.netlify.app/contact</loc>
-    <lastmod>2025-01-01</lastmod>
-    <priority>0.6</priority>
-    <changefreq>yearly</changefreq>
-  </url>
 
 </urlset>
+
