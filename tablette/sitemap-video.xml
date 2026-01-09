@@ -3,59 +3,59 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
-  <!-- Page principale contenant les vidéos -->
+  <!-- Page principale contenant les vidÃ©os -->
   <url>
     <loc>https://aikidochauray.netlify.app/page8</loc>
 
-    <!-- vidéo 1 -->
+    <!-- vidÃ©o 1 -->
     <video:video>
       <video:thumbnail_loc>
         https://aikidochauray.netlify.app/index_fichiers/Video/MoriheiUeshibaleJo.jpg
       </video:thumbnail_loc>
-      <video:title>Vidéo Aïkido Morihei Ueshiba – Partie 1</video:title>
-      <video:description>Extrait vidéo de Morihei Ueshiba pratiquant l’Aïkido.</video:description>
+      <video:title>VidÃ©o AÃ¯kido Morihei Ueshiba â€“ Partie 1</video:title>
+      <video:description>Extrait vidÃ©o de Morihei Ueshiba pratiquant lâ€™AÃ¯kido.</video:description>
       <video:content_loc>
-        https://aikidochauray.netlify.app/index_fichiers/Video/MoriheiUeshibale_1.mp4
+        https://aikidochauray.netlify.app/tablette/index_fichiers/Video/MoriheiUeshibale_1.mp4
       </video:content_loc>
       <video:duration>150</video:duration>
       <video:publication_date>2021-01-15T10:00:00+00:00</video:publication_date>
     </video:video>
 
-    <!--vidéo 2 -->
+    <!--vidÃ©o 2 -->
     <video:video>
       <video:thumbnail_loc>
         https://aikidochauray.netlify.app/index_fichiers/Video/MoriheiUeshibaleJo.jpg
       </video:thumbnail_loc>
-      <video:title>Vidéo Aïkido Morihei Ueshiba – Partie 2</video:title>
-      <video:description>Deuxième extrait vidéo de Morihei Ueshiba.</video:description>
+      <video:title>VidÃ©o AÃ¯kido Morihei Ueshiba â€“ Partie 2</video:title>
+      <video:description>DeuxiÃ¨me extrait vidÃ©o de Morihei Ueshiba.</video:description>
       <video:content_loc>
-        https://aikidochauray.netlify.app/index_fichiers/Video/MoriheiUeshibaleJo.mp4
+        https://aikidochauray.netlify.app/tablette/index_fichiers/Video/MoriheiUeshibaleJo.mp4
       </video:content_loc>
       <video:duration>46</video:duration>
       <video:publication_date>2021-01-15T10:05:00+00:00</video:publication_date>
     </video:video>
 
-    <!--vidéo 3 -->
+    <!--vidÃ©o 3 -->
     <video:video>
       <video:thumbnail_loc>
         https://aikidochauray.netlify.app/index_fichiers/Video/MoriheiUeshibaleKen.jpg
       </video:thumbnail_loc>
-      <video:title>Vidéo Aïkido Morihei Ueshiba – Partie 3</video:title>
-      <video:description>Troisième extrait vidéo de Morihei Ueshiba.</video:description>
+      <video:title>VidÃ©o AÃ¯kido Morihei Ueshiba â€“ Partie 3</video:title>
+      <video:description>TroisiÃ¨me extrait vidÃ©o de Morihei Ueshiba.</video:description>
       <video:content_loc>
-        https://aikidochauray.netlify.app/index_fichiers/Video/MoriheiUeshibaleKen.mp4
+        https://aikidochauray.netlify.app/tablette/index_fichiers/Video/MoriheiUeshibaleKen.mp4
       </video:content_loc>
       <video:duration>82</video:duration>
       <video:publication_date>2021-01-15T10:05:00+00:00</video:publication_date>
     </video:video>
 	
-	<!-- vidéo 4 -->
+	<!-- vidÃ©o 4 -->
     <video:video>
       <video:thumbnail_loc>
         https://aikidochauray.netlify.app/index_fichiers/Video/MoriheiUeshibaleKen.jpg
       </video:thumbnail_loc>
-      <video:title>Vidéo Aïkido Morihei Ueshiba – Partie 4</video:title>
-      <video:description>Quatrième extrait vidéo de Morihei Ueshiba.</video:description>
+      <video:title>VidÃ©o AÃ¯kido Morihei Ueshiba â€“ Partie 4</video:title>
+      <video:description>QuatriÃ¨me extrait vidÃ©o de Morihei Ueshiba.</video:description>
       <video:player_loc allow_embed="yes">
         https://geo.dailymotion.com/player.html?video=xrwjdb
       </video:player_loc>
@@ -68,3 +68,4 @@
   </url>
 
 </urlset>
+
